@@ -4,8 +4,15 @@ A Flutter Project.
 
 ## Getting Started
 
+## Discription
+
+Introducing our unique app, tailored exclusively to one of the most beloved Pokemon characters! Dive into the fascinating world of [Pokemon Name] with our specialized application. This app offers an immersive experience, providing in-depth details, trivia, and a comprehensive profile of this iconic Pokemon.
+
+Explore [Pokemon Name]'s origin, evolution, abilities, and stats with ease. Get access to an extensive Pokedex, complete with high-quality images and detailed information about this captivating creature. Our app offers a user-friendly interface, making it perfect for both avid Pokemon trainers and newcomers.
+
 ## Application Video
 
+https://github.com/harshilgujarati/pokemon_app/assets/131511029/d2391f62-1383-4624-9eef-0a5dff7e168c
 
 ## Application Photos
 
